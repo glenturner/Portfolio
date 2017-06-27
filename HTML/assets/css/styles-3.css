@@ -1,6 +1,11 @@
 /*-------------------
 ---- Main Styles ----
 ---------------------*/
+#logo {
+	height: 59px;
+	position: relative;
+	bottom: 8px;
+}
 
 html,body{
 	height:100%;
